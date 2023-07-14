@@ -9,7 +9,7 @@ android {
     compileSdkVersion 29
     resourcePrefix "camera_"
     defaultConfig {
-        minSdkVersion 17
+        minSdkVersion 21
         compileOptions {
             sourceCompatibility JavaVersion.VERSION_1_8
             targetCompatibility JavaVersion.VERSION_1_8

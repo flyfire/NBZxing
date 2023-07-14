@@ -15,7 +15,7 @@ android {
     compileSdkVersion 30
     defaultConfig {
         applicationId "com.android.NBZxing"
-        minSdkVersion 17
+        minSdkVersion 21
         targetSdkVersion 30
         versionCode 22
         versionName "1.40"
